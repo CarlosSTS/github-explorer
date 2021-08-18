@@ -17,7 +17,7 @@ O projeto contém os seguintes módulos
 
 ## FRONTEND
 RODANDO O PROJETO FRONTEND
-* yarn install =>  para instalar Dependências do projeto
+* yarn install => para instalar Dependências do projeto
 * yarn start => para inicializar o projeto
 
 ## Feito por Carlos Ferreira
