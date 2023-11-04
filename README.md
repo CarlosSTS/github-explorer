@@ -1,4 +1,4 @@
-# GithubExplorer 
+# Github-explorer 
 1. Um projeto construido no bootCamp da [Rocketseat](https://github.com/rocketseat-education).
 2. O projeto é basicamente uma plataforma para listar repositórios do github usando a api REST do github.
 
